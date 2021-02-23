@@ -1,0 +1,8 @@
+# gitignore for ACC project
+
+# Ignore vim swap files
+*.swo
+*.swp
+
+# Ignore notebook checkpoints
+*.ipynb_*
